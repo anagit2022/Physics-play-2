@@ -31,6 +31,12 @@ body {
     gap: 24px;
 }
 
+#slidersContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
 .left-col {
     width: 300px;
 }
